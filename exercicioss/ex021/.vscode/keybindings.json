@@ -1,0 +1,7 @@
+[
+    {
+        "key": "tab",
+        "command": "editor.emmet.action.expandAbbreviation",
+        "when": "editorTextFocus && !editorReadonly && !suggestWidgetVisible && langId == css"
+    }
+]

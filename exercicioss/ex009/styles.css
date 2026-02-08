@@ -1,0 +1,18 @@
+.ol-italo
+        {
+            background-color: rgb(255, 255, 255);
+            padding: 15px;
+            border-radius: 10px;
+            list-style-type: upper-latin;    
+        }
+        .ul-jeito {
+            background-color: rgb(255, 255, 255);
+            padding: 15px;
+            border-radius: 10px;    
+        }
+.ol-antigo {
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    border-radius: 10px;    
+    list-style-type: upper-latin;
+}
