@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+table { 
+    padding: 5px;
+    border-collapse: collapse;
+    width: 500px;
+}   
+
+
+td.cv { 
+    background-color: brown;
+}
+
+td.meiuca { 
+    vertical-align: bottom;
+}
+
+tr.meiuca { 
+    vertical-align: bottom;
+}
+
+
+td { 
+    border: 2px solid black;
+    padding: 20px;
+}
+
