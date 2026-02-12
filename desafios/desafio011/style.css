@@ -78,8 +78,12 @@ section#part4 {
     background-repeat: no-repeat;
     padding-top:10px ;
     padding-bottom: 10px;
-    
-   
+}
+
+section#part4 > pre { 
+    background-color: #6e6e6e8c;
+    width: 480px;
+    border-radius: 10px;
 }
 
 section#part5 { 
