@@ -1,12 +1,12 @@
 @charset "UTF-8";
 
-body { 
-
-}
-
 table {       
     border-collapse: collapse;
     width: 400px;
+}
+
+th { 
+    background-color: grey;
 }
 
  th, td{ 
@@ -14,4 +14,13 @@ table {
     padding: 6px;
     
     
+}
+
+td.num { 
+    text-align: right;
+}
+
+td.special { 
+    text-align: center;
+    background-color: grey;
 }
