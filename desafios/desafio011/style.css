@@ -1,0 +1,102 @@
+        @import url('https://fonts.googleapis.com/css2?family=Bitcount+Single:wght@100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Passion+One:wght@400;700;900&family=Playwrite+NZ+Basic:wght@100..400&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Bitcount+Single:wght@100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Passion+One:wght@400;700;900&family=Playwrite+NZ+Basic:wght@100..400&family=Sriracha&display=swap');
+        
+* { 
+    margin: 0px;
+    padding: 0px;
+}
+
+body { 
+    background-color:#DCC9A6 ;
+}
+
+
+header { 
+    font-family: 'Passion One';
+    background-color: #3B2F2F;
+    color: #E6D3B1;
+    text-align: center;
+    padding: 15px;
+}
+
+header aside { 
+    padding: 10px;
+}
+
+aside > span { 
+    color: #CBB596;
+}
+
+aside a { 
+    color: #E6D3B1;
+    text-decoration: none;
+}
+
+footer { 
+    font-family: 'Passion One';
+    background-color: #3B2F2F;
+    color: #E6D3B1;
+    text-align: center;
+    padding: 15px;
+}
+
+#part1 { 
+    background-color:#DCC9A6 ;
+    font-size: 25px;
+    
+
+    
+}
+
+#part2 { 
+    background-image: url(imagens/background001.jpg);
+    background-attachment: fixed;
+    background-position: top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color:#DCC9A6 ;
+    font-size: 25px;
+    
+}
+
+#part3 { 
+    background-color: #DCC9A6;
+    
+    font-size: 25px;
+    
+}
+
+#part4 { 
+    background-color: #DCC9A6;
+    font-size: 25px;
+    background-image: url(imagens/background002.jpg);
+    background-attachment: fixed;
+    background-position: top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+   
+}
+
+#part5 { 
+    background-color: #DCC9A6;
+    font-size: 25px;
+   
+}
+
+#part6 { 
+    background-color: #DCC9A6;
+    font-size: 25px;
+}
+
+
+pre { 
+    font-family: 'Sriracha';
+}
+pre#joana { 
+    color: #DCC9A6;
+}
+
+div#papiro { 
+    
+}
