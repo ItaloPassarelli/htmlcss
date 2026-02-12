@@ -50,7 +50,7 @@ section#part1 {
 section#part2 { 
     background-image: url(imagens/background001.jpg);
     background-attachment: fixed;
-    background-position: top center;
+    background-position: right center;
     background-size: cover;
     background-repeat: no-repeat;
     background-color:#DCC9A6 ;
@@ -73,7 +73,7 @@ section#part4 {
     font-size: 25px;
     background-image: url(imagens/background002.jpg);
     background-attachment: fixed;
-    background-position: top center;
+    background-position: right center;
     background-size: cover;
     background-repeat: no-repeat;
     padding-top:10px ;
