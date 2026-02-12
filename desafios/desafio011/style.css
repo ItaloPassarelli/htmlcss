@@ -40,15 +40,14 @@ footer {
     padding: 15px;
 }
 
-#part1 { 
+section#part1 { 
     background-color:#DCC9A6 ;
     font-size: 25px;
-    
-
-    
+    padding-top:10px ;
+    padding-bottom: 10px;
 }
 
-#part2 { 
+section#part2 { 
     background-image: url(imagens/background001.jpg);
     background-attachment: fixed;
     background-position: top center;
@@ -56,17 +55,20 @@ footer {
     background-repeat: no-repeat;
     background-color:#DCC9A6 ;
     font-size: 25px;
+    padding-top:10px ;
+    padding-bottom: 10px;
     
 }
 
-#part3 { 
+section#part3 { 
     background-color: #DCC9A6;
-    
+    padding-top:10px ;
+    padding-bottom: 10px;
     font-size: 25px;
     
 }
 
-#part4 { 
+section#part4 { 
     background-color: #DCC9A6;
     font-size: 25px;
     background-image: url(imagens/background002.jpg);
@@ -74,19 +76,25 @@ footer {
     background-position: top center;
     background-size: cover;
     background-repeat: no-repeat;
+    padding-top:10px ;
+    padding-bottom: 10px;
     
    
 }
 
-#part5 { 
+section#part5 { 
     background-color: #DCC9A6;
     font-size: 25px;
+    padding-top:10px ;
+    padding-bottom: 10px;
    
 }
 
-#part6 { 
+section#part6 { 
     background-color: #DCC9A6;
     font-size: 25px;
+    padding-top:10px ;
+    padding-bottom: 10px;
 }
 
 
