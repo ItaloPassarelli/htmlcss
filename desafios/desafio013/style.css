@@ -1,0 +1,42 @@
+th { 
+    background-color: rgba(128, 128, 128, 0.562);
+}
+
+td.media { 
+background-color: rgba(128, 128, 128, 0.562);
+}
+
+
+
+caption { 
+    padding: 8px;
+    font-weight: bold;
+    margin: 20px;
+}
+
+body, table { 
+    margin: auto;
+    text-align: center;
+}
+
+table { 
+    border-collapse: collapse;
+    width: 500px;
+}
+
+td { 
+    border: 1px solid black;
+    padding: 10px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+}
+
+
+th.nota { 
+    border: 1px solid black;
+}
+
+div#conteiner { 
+    overflow: auto;
+}
